@@ -1,8 +1,0 @@
-GET http://localhost:3000/users
-
-GET http://localhost:3000/users/12315
-
-GET http://localhost:3000/users/24123/optional
-GET http://localhost:3000/users/32126
-?limit=10
-&offset=20
